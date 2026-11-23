@@ -1,0 +1,482 @@
+crop_name,country,region,district,year,season,cultivated_area,production,yield_per_ha
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2012,Kharif,5171241.0,5559084.1,1.075
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2013,Kharif,5555790.2,6100257.6,1.098
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2014,Kharif,5229299.5,4716828.1,0.902
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2015,Kharif,5476626.4,5525916.0,1.009
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2016,Kharif,5468852.5,5955580.4,1.089
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2017,Kharif,5298128.2,5854431.7,1.105
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2018,Kharif,5036037.7,5826695.6,1.157
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2019,Kharif,5356044.2,6196943.1,1.157
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2020,Kharif,5577363.4,6743032.4,1.209
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2021,Kharif,5257240.8,6024798.0,1.146
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2022,Kharif,5543038.5,7743624.8,1.397
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2023,Kharif,5332652.4,7156419.5,1.342
+Soybean,India,Madhya Pradesh,Madhya Pradesh Composite,2024,Kharif,5691071.9,6897579.1,1.212
+Soybean,India,Maharashtra,Maharashtra Composite,2012,Kharif,3958608.9,4259463.2,1.076
+Soybean,India,Maharashtra,Maharashtra Composite,2013,Kharif,3893495.8,4415224.2,1.134
+Soybean,India,Maharashtra,Maharashtra Composite,2014,Kharif,4266955.4,4151747.6,0.973
+Soybean,India,Maharashtra,Maharashtra Composite,2015,Kharif,3851997.1,3982965.0,1.034
+Soybean,India,Maharashtra,Maharashtra Composite,2016,Kharif,3865548.4,5005885.2,1.295
+Soybean,India,Maharashtra,Maharashtra Composite,2017,Kharif,3789291.5,4842714.5,1.278
+Soybean,India,Maharashtra,Maharashtra Composite,2018,Kharif,4164710.4,5005981.9,1.202
+Soybean,India,Maharashtra,Maharashtra Composite,2019,Kharif,4199733.5,6093813.3,1.451
+Soybean,India,Maharashtra,Maharashtra Composite,2020,Kharif,4165027.8,5910174.4,1.419
+Soybean,India,Maharashtra,Maharashtra Composite,2021,Kharif,4138704.3,5223044.8,1.262
+Soybean,India,Maharashtra,Maharashtra Composite,2022,Kharif,4454911.1,6579903.7,1.477
+Soybean,India,Maharashtra,Maharashtra Composite,2023,Kharif,4053965.7,6291754.8,1.552
+Soybean,India,Maharashtra,Maharashtra Composite,2024,Kharif,4307927.2,6233570.7,1.447
+Soybean,India,Rajasthan,Rajasthan Composite,2012,Kharif,1075690.4,1134853.4,1.055
+Soybean,India,Rajasthan,Rajasthan Composite,2013,Kharif,1098563.8,1305093.8,1.188
+Soybean,India,Rajasthan,Rajasthan Composite,2014,Kharif,1055913.1,958769.1,0.908
+Soybean,India,Rajasthan,Rajasthan Composite,2015,Kharif,1119322.9,1124919.5,1.005
+Soybean,India,Rajasthan,Rajasthan Composite,2016,Kharif,1080002.3,1239842.6,1.148
+Soybean,India,Rajasthan,Rajasthan Composite,2017,Kharif,1047009.3,1178932.5,1.126
+Soybean,India,Rajasthan,Rajasthan Composite,2018,Kharif,1163662.1,1480178.2,1.272
+Soybean,India,Rajasthan,Rajasthan Composite,2019,Kharif,1158298.4,1531270.5,1.322
+Soybean,India,Rajasthan,Rajasthan Composite,2020,Kharif,1098505.0,1504951.9,1.37
+Soybean,India,Rajasthan,Rajasthan Composite,2021,Kharif,1199647.5,1561941.0,1.302
+Soybean,India,Rajasthan,Rajasthan Composite,2022,Kharif,1210215.0,1714874.7,1.417
+Soybean,India,Rajasthan,Rajasthan Composite,2023,Kharif,1188469.9,1504602.9,1.266
+Soybean,India,Rajasthan,Rajasthan Composite,2024,Kharif,1150841.7,1545580.4,1.343
+Soybean,India,Karnataka,Karnataka Composite,2012,Kharif,349789.0,358183.9,1.024
+Soybean,India,Karnataka,Karnataka Composite,2013,Kharif,387708.1,396237.7,1.022
+Soybean,India,Karnataka,Karnataka Composite,2014,Kharif,376682.3,357094.8,0.948
+Soybean,India,Karnataka,Karnataka Composite,2015,Kharif,379213.3,324985.8,0.857
+Soybean,India,Karnataka,Karnataka Composite,2016,Kharif,394117.0,437469.9,1.11
+Soybean,India,Karnataka,Karnataka Composite,2017,Kharif,399201.7,421956.2,1.057
+Soybean,India,Karnataka,Karnataka Composite,2018,Kharif,408403.4,448426.9,1.098
+Soybean,India,Karnataka,Karnataka Composite,2019,Kharif,390979.5,451972.3,1.156
+Soybean,India,Karnataka,Karnataka Composite,2020,Kharif,375994.6,444425.6,1.182
+Soybean,India,Karnataka,Karnataka Composite,2021,Kharif,404488.0,462329.8,1.143
+Soybean,India,Karnataka,Karnataka Composite,2022,Kharif,399234.3,501039.0,1.255
+Soybean,India,Karnataka,Karnataka Composite,2023,Kharif,398686.2,479619.5,1.203
+Soybean,India,Karnataka,Karnataka Composite,2024,Kharif,395165.4,454835.4,1.151
+Soybean,India,Gujarat,Gujarat Composite,2012,Kharif,213394.0,228545.0,1.071
+Soybean,India,Gujarat,Gujarat Composite,2013,Kharif,213776.5,258669.6,1.21
+Soybean,India,Gujarat,Gujarat Composite,2014,Kharif,213994.7,207360.9,0.969
+Soybean,India,Gujarat,Gujarat Composite,2015,Kharif,216707.3,188752.1,0.871
+Soybean,India,Gujarat,Gujarat Composite,2016,Kharif,239931.2,282639.0,1.178
+Soybean,India,Gujarat,Gujarat Composite,2017,Kharif,224083.0,266210.6,1.188
+Soybean,India,Gujarat,Gujarat Composite,2018,Kharif,214043.1,261346.6,1.221
+Soybean,India,Gujarat,Gujarat Composite,2019,Kharif,232486.2,324783.2,1.397
+Soybean,India,Gujarat,Gujarat Composite,2020,Kharif,220841.1,309398.4,1.401
+Soybean,India,Gujarat,Gujarat Composite,2021,Kharif,219014.5,300706.9,1.373
+Soybean,India,Gujarat,Gujarat Composite,2022,Kharif,251499.8,369453.2,1.469
+Soybean,India,Gujarat,Gujarat Composite,2023,Kharif,230653.1,324067.6,1.405
+Soybean,India,Gujarat,Gujarat Composite,2024,Kharif,233490.8,320115.9,1.371
+Soybean,India,Telangana,Telangana Composite,2012,Kharif,190521.1,211668.9,1.111
+Soybean,India,Telangana,Telangana Composite,2013,Kharif,195974.3,229094.0,1.169
+Soybean,India,Telangana,Telangana Composite,2014,Kharif,206529.5,209627.4,1.015
+Soybean,India,Telangana,Telangana Composite,2015,Kharif,194677.3,204995.2,1.053
+Soybean,India,Telangana,Telangana Composite,2016,Kharif,190145.4,259928.8,1.367
+Soybean,India,Telangana,Telangana Composite,2017,Kharif,211809.3,288696.1,1.363
+Soybean,India,Telangana,Telangana Composite,2018,Kharif,205653.2,264675.7,1.287
+Soybean,India,Telangana,Telangana Composite,2019,Kharif,212566.9,323314.3,1.521
+Soybean,India,Telangana,Telangana Composite,2020,Kharif,198964.5,291483.0,1.465
+Soybean,India,Telangana,Telangana Composite,2021,Kharif,213632.1,320448.2,1.5
+Soybean,India,Telangana,Telangana Composite,2022,Kharif,216383.0,356166.4,1.646
+Soybean,India,Telangana,Telangana Composite,2023,Kharif,217890.1,353635.6,1.623
+Soybean,India,Telangana,Telangana Composite,2024,Kharif,213070.9,336012.8,1.577
+Groundnut,India,Gujarat,Gujarat Composite,2012,Whole Year,1783168.3,4247506.9,2.382
+Groundnut,India,Gujarat,Gujarat Composite,2013,Whole Year,1817833.8,3584768.3,1.972
+Groundnut,India,Gujarat,Gujarat Composite,2014,Whole Year,1848845.9,3183712.6,1.722
+Groundnut,India,Gujarat,Gujarat Composite,2015,Whole Year,1758177.2,3686897.6,2.097
+Groundnut,India,Gujarat,Gujarat Composite,2016,Whole Year,1866394.7,4583865.4,2.456
+Groundnut,India,Gujarat,Gujarat Composite,2017,Whole Year,1992150.5,4954478.3,2.487
+Groundnut,India,Gujarat,Gujarat Composite,2018,Whole Year,1828488.5,4348145.7,2.378
+Groundnut,India,Gujarat,Gujarat Composite,2019,Whole Year,1846018.3,4616891.8,2.501
+Groundnut,India,Gujarat,Gujarat Composite,2020,Whole Year,1948880.6,5215204.5,2.676
+Groundnut,India,Gujarat,Gujarat Composite,2021,Whole Year,2004777.8,5240489.2,2.614
+Groundnut,India,Gujarat,Gujarat Composite,2022,Whole Year,2070497.4,5917481.6,2.858
+Groundnut,India,Gujarat,Gujarat Composite,2023,Whole Year,2181036.8,6255213.5,2.868
+Groundnut,India,Gujarat,Gujarat Composite,2024,Whole Year,1952499.0,5515809.7,2.825
+Groundnut,India,Rajasthan,Rajasthan Composite,2012,Whole Year,662544.3,1388692.9,2.096
+Groundnut,India,Rajasthan,Rajasthan Composite,2013,Whole Year,678314.0,1549947.5,2.285
+Groundnut,India,Rajasthan,Rajasthan Composite,2014,Whole Year,667606.4,1397300.2,2.093
+Groundnut,India,Rajasthan,Rajasthan Composite,2015,Whole Year,639864.0,1261171.9,1.971
+Groundnut,India,Rajasthan,Rajasthan Composite,2016,Whole Year,711266.4,1746870.3,2.456
+Groundnut,India,Rajasthan,Rajasthan Composite,2017,Whole Year,666360.8,1744532.6,2.618
+Groundnut,India,Rajasthan,Rajasthan Composite,2018,Whole Year,718518.3,1925629.0,2.68
+Groundnut,India,Rajasthan,Rajasthan Composite,2019,Whole Year,722246.9,2004235.1,2.775
+Groundnut,India,Rajasthan,Rajasthan Composite,2020,Whole Year,698282.8,2079486.2,2.978
+Groundnut,India,Rajasthan,Rajasthan Composite,2021,Whole Year,752330.4,2188529.1,2.909
+Groundnut,India,Rajasthan,Rajasthan Composite,2022,Whole Year,774898.9,2578863.5,3.328
+Groundnut,India,Rajasthan,Rajasthan Composite,2023,Whole Year,732866.5,2229379.9,3.042
+Groundnut,India,Rajasthan,Rajasthan Composite,2024,Whole Year,780358.4,2445643.2,3.134
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2012,Whole Year,865581.9,1204890.0,1.392
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2013,Whole Year,787817.0,1110822.0,1.41
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2014,Whole Year,777041.7,961977.6,1.238
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2015,Whole Year,784019.1,900837.9,1.149
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2016,Whole Year,757895.4,1016337.7,1.341
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2017,Whole Year,771206.2,1062722.1,1.378
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2018,Whole Year,716482.0,1159267.9,1.618
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2019,Whole Year,727868.5,1170412.5,1.608
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2020,Whole Year,812668.5,1241757.5,1.528
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2021,Whole Year,751417.7,1109843.9,1.477
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2022,Whole Year,807887.9,1273231.3,1.576
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2023,Whole Year,797743.8,1266817.2,1.588
+Groundnut,India,Andhra Pradesh,Andhra Pradesh Composite,2024,Whole Year,775452.0,1175585.2,1.516
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2012,Whole Year,369128.4,1078962.3,2.923
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2013,Whole Year,365384.9,888616.1,2.432
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2014,Whole Year,377675.0,838816.2,2.221
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2015,Whole Year,366447.8,822308.9,2.244
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2016,Whole Year,383266.9,1101125.8,2.873
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2017,Whole Year,368683.2,993969.9,2.696
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2018,Whole Year,366792.1,1037288.1,2.828
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2019,Whole Year,384731.7,1294622.2,3.365
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2020,Whole Year,394817.2,1192347.9,3.02
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2021,Whole Year,399167.5,1308471.1,3.278
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2022,Whole Year,380027.0,1195564.9,3.146
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2023,Whole Year,379509.6,1343464.0,3.54
+Groundnut,India,Tamil Nadu,Tamil Nadu Composite,2024,Whole Year,403554.7,1284514.6,3.183
+Groundnut,India,Karnataka,Karnataka Composite,2012,Whole Year,518761.9,614732.9,1.185
+Groundnut,India,Karnataka,Karnataka Composite,2013,Whole Year,501812.7,520881.6,1.038
+Groundnut,India,Karnataka,Karnataka Composite,2014,Whole Year,500286.1,531303.8,1.062
+Groundnut,India,Karnataka,Karnataka Composite,2015,Whole Year,499613.1,604032.2,1.209
+Groundnut,India,Karnataka,Karnataka Composite,2016,Whole Year,535199.4,684520.0,1.279
+Groundnut,India,Karnataka,Karnataka Composite,2017,Whole Year,505734.1,721176.8,1.426
+Groundnut,India,Karnataka,Karnataka Composite,2018,Whole Year,538932.8,765823.5,1.421
+Groundnut,India,Karnataka,Karnataka Composite,2019,Whole Year,551451.8,764312.2,1.386
+Groundnut,India,Karnataka,Karnataka Composite,2020,Whole Year,532475.5,790193.6,1.484
+Groundnut,India,Karnataka,Karnataka Composite,2021,Whole Year,540065.5,750691.0,1.39
+Groundnut,India,Karnataka,Karnataka Composite,2022,Whole Year,564972.3,872882.2,1.545
+Groundnut,India,Karnataka,Karnataka Composite,2023,Whole Year,528573.4,879546.1,1.664
+Groundnut,India,Karnataka,Karnataka Composite,2024,Whole Year,516836.6,816085.0,1.579
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2012,Whole Year,296824.5,500742.9,1.687
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2013,Whole Year,285966.7,503873.3,1.762
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2014,Whole Year,290661.2,431341.2,1.484
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2015,Whole Year,309425.4,460425.0,1.488
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2016,Whole Year,294722.2,554372.5,1.881
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2017,Whole Year,309514.7,608815.4,1.967
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2018,Whole Year,316443.7,631621.6,1.996
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2019,Whole Year,305831.9,619309.6,2.025
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2020,Whole Year,322600.3,710043.3,2.201
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2021,Whole Year,320071.0,651344.5,2.035
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2022,Whole Year,315037.8,747899.7,2.374
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2023,Whole Year,322744.6,757481.6,2.347
+Groundnut,India,Madhya Pradesh,Madhya Pradesh Composite,2024,Whole Year,341025.8,726385.0,2.13
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2012,Rabi,2787859.0,4694754.6,1.684
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2013,Rabi,2740068.4,4841700.9,1.767
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2014,Rabi,2742091.2,4126847.3,1.505
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2015,Rabi,2799344.6,4260602.5,1.522
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2016,Rabi,2915477.0,5274097.9,1.809
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2017,Rabi,3114977.8,5554005.4,1.783
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2018,Rabi,2795667.6,5071341.0,1.814
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2019,Rabi,3050099.6,6579064.8,2.157
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2020,Rabi,3070261.3,6634834.7,2.161
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2021,Rabi,2943296.5,5966062.0,2.027
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2022,Rabi,3004866.5,6784988.6,2.258
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2023,Rabi,3099917.8,7356104.9,2.373
+Rapeseed & Mustard,India,Rajasthan,Rajasthan Composite,2024,Rabi,3118890.3,6549669.6,2.1
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2012,Rabi,830833.4,1317701.8,1.586
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2013,Rabi,871885.4,1332240.9,1.528
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2014,Rabi,859963.9,1222868.7,1.422
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2015,Rabi,898689.7,1267152.5,1.41
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2016,Rabi,856546.2,1390174.5,1.623
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2017,Rabi,910742.8,1581049.5,1.736
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2018,Rabi,981762.1,1840803.9,1.875
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2019,Rabi,939762.1,1969741.4,2.096
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2020,Rabi,924714.0,1913233.3,2.069
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2021,Rabi,962585.6,1920358.3,1.995
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2022,Rabi,957874.1,2150427.4,2.245
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2023,Rabi,1051713.1,2430509.0,2.311
+Rapeseed & Mustard,India,Madhya Pradesh,Madhya Pradesh Composite,2024,Rabi,1026858.2,2193369.1,2.136
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2012,Rabi,669086.8,1340849.9,2.004
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2013,Rabi,685442.5,1368828.7,1.997
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2014,Rabi,669174.1,1140272.7,1.704
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2015,Rabi,708845.6,1224885.2,1.728
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2016,Rabi,726492.2,1583753.0,2.18
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2017,Rabi,684628.1,1549998.0,2.264
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2018,Rabi,715586.9,1569997.7,2.194
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2019,Rabi,693714.3,1721798.9,2.482
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2020,Rabi,704496.5,1602729.5,2.275
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2021,Rabi,711599.5,1457355.8,2.048
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2022,Rabi,735090.7,1762747.5,2.398
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2023,Rabi,787131.8,1978062.2,2.513
+Rapeseed & Mustard,India,Haryana,Haryana Composite,2024,Rabi,725508.2,1723082.0,2.375
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2012,Rabi,734167.3,1043251.7,1.421
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2013,Rabi,779946.0,1110643.1,1.424
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2014,Rabi,720887.7,994104.1,1.379
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2015,Rabi,780591.5,952321.6,1.22
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2016,Rabi,784449.1,1248058.5,1.591
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2017,Rabi,738738.0,1125836.7,1.524
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2018,Rabi,764553.0,1267628.9,1.658
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2019,Rabi,788338.1,1400088.5,1.776
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2020,Rabi,773499.5,1366000.1,1.766
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2021,Rabi,799615.8,1402526.1,1.754
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2022,Rabi,759610.3,1507826.4,1.985
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2023,Rabi,835997.1,1561642.6,1.868
+Rapeseed & Mustard,India,Uttar Pradesh,Uttar Pradesh Composite,2024,Rabi,784843.6,1457454.6,1.857
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2012,Rabi,542498.6,716098.2,1.32
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2013,Rabi,546318.4,724418.2,1.326
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2014,Rabi,587635.4,698110.9,1.188
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2015,Rabi,575565.9,636575.9,1.106
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2016,Rabi,589002.4,806344.3,1.369
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2017,Rabi,579118.7,763857.6,1.319
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2018,Rabi,531171.2,761168.3,1.433
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2019,Rabi,529972.6,770580.2,1.454
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2020,Rabi,594378.9,902267.2,1.518
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2021,Rabi,585340.4,889717.4,1.52
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2022,Rabi,558789.8,942119.6,1.686
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2023,Rabi,592260.2,922741.4,1.558
+Rapeseed & Mustard,India,West Bengal,West Bengal Composite,2024,Rabi,597613.8,918532.4,1.537
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2012,Rabi,279001.9,457284.1,1.639
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2013,Rabi,291000.3,509832.5,1.752
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2014,Rabi,276473.3,456733.9,1.652
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2015,Rabi,278636.8,451391.6,1.62
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2016,Rabi,304697.6,608481.1,1.997
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2017,Rabi,303145.3,594467.9,1.961
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2018,Rabi,292119.8,597969.2,2.047
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2019,Rabi,292905.3,666359.6,2.275
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2020,Rabi,294583.8,671945.6,2.281
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2021,Rabi,311895.0,748859.9,2.401
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2022,Rabi,317396.6,766195.4,2.414
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2023,Rabi,316025.1,793539.0,2.511
+Rapeseed & Mustard,India,Gujarat,Gujarat Composite,2024,Rabi,330484.1,799771.5,2.42
+Sunflower,India,Karnataka,Karnataka Composite,2012,Whole Year,175854.1,145607.2,0.828
+Sunflower,India,Karnataka,Karnataka Composite,2013,Whole Year,163876.2,138147.6,0.843
+Sunflower,India,Karnataka,Karnataka Composite,2014,Whole Year,190741.5,126080.1,0.661
+Sunflower,India,Karnataka,Karnataka Composite,2015,Whole Year,179556.9,142568.2,0.794
+Sunflower,India,Karnataka,Karnataka Composite,2016,Whole Year,184041.0,163980.5,0.891
+Sunflower,India,Karnataka,Karnataka Composite,2017,Whole Year,190310.9,189740.0,0.997
+Sunflower,India,Karnataka,Karnataka Composite,2018,Whole Year,175820.1,152963.5,0.87
+Sunflower,India,Karnataka,Karnataka Composite,2019,Whole Year,184614.9,162830.3,0.882
+Sunflower,India,Karnataka,Karnataka Composite,2020,Whole Year,173359.8,159664.4,0.921
+Sunflower,India,Karnataka,Karnataka Composite,2021,Whole Year,176262.9,151938.6,0.862
+Sunflower,India,Karnataka,Karnataka Composite,2022,Whole Year,190847.8,201344.4,1.055
+Sunflower,India,Karnataka,Karnataka Composite,2023,Whole Year,195605.6,193649.5,0.99
+Sunflower,India,Karnataka,Karnataka Composite,2024,Whole Year,179198.8,161995.7,0.904
+Sunflower,India,Odisha,Odisha Composite,2012,Whole Year,45970.0,56083.4,1.22
+Sunflower,India,Odisha,Odisha Composite,2013,Whole Year,44994.9,50394.3,1.12
+Sunflower,India,Odisha,Odisha Composite,2014,Whole Year,43186.0,41458.6,0.96
+Sunflower,India,Odisha,Odisha Composite,2015,Whole Year,49449.4,52416.4,1.06
+Sunflower,India,Odisha,Odisha Composite,2016,Whole Year,47363.3,54704.6,1.155
+Sunflower,India,Odisha,Odisha Composite,2017,Whole Year,45810.7,55247.7,1.206
+Sunflower,India,Odisha,Odisha Composite,2018,Whole Year,45469.8,55746.0,1.226
+Sunflower,India,Odisha,Odisha Composite,2019,Whole Year,45866.8,62608.2,1.365
+Sunflower,India,Odisha,Odisha Composite,2020,Whole Year,47609.6,66272.6,1.392
+Sunflower,India,Odisha,Odisha Composite,2021,Whole Year,46403.9,60046.6,1.294
+Sunflower,India,Odisha,Odisha Composite,2022,Whole Year,49734.7,70722.7,1.422
+Sunflower,India,Odisha,Odisha Composite,2023,Whole Year,46952.9,69912.9,1.489
+Sunflower,India,Odisha,Odisha Composite,2024,Whole Year,50402.5,68648.2,1.362
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2012,Whole Year,38825.9,36962.3,0.952
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2013,Whole Year,39019.3,39760.7,1.019
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2014,Whole Year,35560.6,30368.8,0.854
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2015,Whole Year,38529.1,31285.6,0.812
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2016,Whole Year,37233.4,40919.5,1.099
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2017,Whole Year,36234.5,40945.0,1.13
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2018,Whole Year,37071.3,40667.2,1.097
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2019,Whole Year,39136.0,45162.9,1.154
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2020,Whole Year,38631.5,44464.9,1.151
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2021,Whole Year,38491.1,45612.0,1.185
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2022,Whole Year,37802.8,49105.8,1.299
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2023,Whole Year,41863.2,53961.7,1.289
+Sunflower,India,Andhra Pradesh,Andhra Pradesh Composite,2024,Whole Year,38612.7,38805.8,1.005
+Sunflower,India,Maharashtra,Maharashtra Composite,2012,Whole Year,31740.1,25614.3,0.807
+Sunflower,India,Maharashtra,Maharashtra Composite,2013,Whole Year,31146.9,24699.5,0.793
+Sunflower,India,Maharashtra,Maharashtra Composite,2014,Whole Year,31640.7,20598.1,0.651
+Sunflower,India,Maharashtra,Maharashtra Composite,2015,Whole Year,32085.7,22395.8,0.698
+Sunflower,India,Maharashtra,Maharashtra Composite,2016,Whole Year,31152.8,24299.2,0.78
+Sunflower,India,Maharashtra,Maharashtra Composite,2017,Whole Year,31046.3,22912.2,0.738
+Sunflower,India,Maharashtra,Maharashtra Composite,2018,Whole Year,30981.1,24010.4,0.775
+Sunflower,India,Maharashtra,Maharashtra Composite,2019,Whole Year,34096.5,28266.0,0.829
+Sunflower,India,Maharashtra,Maharashtra Composite,2020,Whole Year,30942.7,26363.2,0.852
+Sunflower,India,Maharashtra,Maharashtra Composite,2021,Whole Year,30757.7,24636.9,0.801
+Sunflower,India,Maharashtra,Maharashtra Composite,2022,Whole Year,29909.6,21863.9,0.731
+Sunflower,India,Maharashtra,Maharashtra Composite,2023,Whole Year,30670.1,22542.5,0.735
+Sunflower,India,Maharashtra,Maharashtra Composite,2024,Whole Year,33185.8,24358.4,0.734
+Sunflower,India,Bihar,Bihar Composite,2012,Whole Year,21807.2,28763.7,1.319
+Sunflower,India,Bihar,Bihar Composite,2013,Whole Year,20186.2,27513.8,1.363
+Sunflower,India,Bihar,Bihar Composite,2014,Whole Year,22942.4,26085.5,1.137
+Sunflower,India,Bihar,Bihar Composite,2015,Whole Year,23402.5,24666.2,1.054
+Sunflower,India,Bihar,Bihar Composite,2016,Whole Year,22162.5,30628.6,1.382
+Sunflower,India,Bihar,Bihar Composite,2017,Whole Year,24658.2,34866.7,1.414
+Sunflower,India,Bihar,Bihar Composite,2018,Whole Year,23010.4,32306.6,1.404
+Sunflower,India,Bihar,Bihar Composite,2019,Whole Year,22176.1,32975.9,1.487
+Sunflower,India,Bihar,Bihar Composite,2020,Whole Year,22302.6,35148.9,1.576
+Sunflower,India,Bihar,Bihar Composite,2021,Whole Year,22767.7,32876.6,1.444
+Sunflower,India,Bihar,Bihar Composite,2022,Whole Year,23613.6,38395.7,1.626
+Sunflower,India,Bihar,Bihar Composite,2023,Whole Year,23003.2,38507.4,1.674
+Sunflower,India,Bihar,Bihar Composite,2024,Whole Year,22722.7,33447.8,1.472
+Sesame,India,West Bengal,West Bengal Composite,2012,Kharif,284225.8,256371.7,0.902
+Sesame,India,West Bengal,West Bengal Composite,2013,Kharif,272751.7,264841.9,0.971
+Sesame,India,West Bengal,West Bengal Composite,2014,Kharif,301343.1,255538.9,0.848
+Sesame,India,West Bengal,West Bengal Composite,2015,Kharif,310260.1,263721.1,0.85
+Sesame,India,West Bengal,West Bengal Composite,2016,Kharif,278379.9,270028.5,0.97
+Sesame,India,West Bengal,West Bengal Composite,2017,Kharif,312155.7,296235.8,0.949
+Sesame,India,West Bengal,West Bengal Composite,2018,Kharif,297857.5,318111.8,1.068
+Sesame,India,West Bengal,West Bengal Composite,2019,Kharif,288954.5,331430.8,1.147
+Sesame,India,West Bengal,West Bengal Composite,2020,Kharif,306087.3,384139.6,1.255
+Sesame,India,West Bengal,West Bengal Composite,2021,Kharif,315848.6,349644.4,1.107
+Sesame,India,West Bengal,West Bengal Composite,2022,Kharif,313307.5,389441.2,1.243
+Sesame,India,West Bengal,West Bengal Composite,2023,Kharif,319160.4,386822.4,1.212
+Sesame,India,West Bengal,West Bengal Composite,2024,Kharif,332028.7,411383.6,1.239
+Sesame,India,Gujarat,Gujarat Composite,2012,Kharif,156728.2,116135.6,0.741
+Sesame,India,Gujarat,Gujarat Composite,2013,Kharif,160395.0,104737.9,0.653
+Sesame,India,Gujarat,Gujarat Composite,2014,Kharif,169402.8,100625.3,0.594
+Sesame,India,Gujarat,Gujarat Composite,2015,Kharif,173389.1,93109.9,0.537
+Sesame,India,Gujarat,Gujarat Composite,2016,Kharif,162068.0,115878.6,0.715
+Sesame,India,Gujarat,Gujarat Composite,2017,Kharif,155408.9,107543.0,0.692
+Sesame,India,Gujarat,Gujarat Composite,2018,Kharif,167669.2,129608.3,0.773
+Sesame,India,Gujarat,Gujarat Composite,2019,Kharif,160111.5,121204.4,0.757
+Sesame,India,Gujarat,Gujarat Composite,2020,Kharif,180281.7,144766.2,0.803
+Sesame,India,Gujarat,Gujarat Composite,2021,Kharif,161179.9,122819.1,0.762
+Sesame,India,Gujarat,Gujarat Composite,2022,Kharif,170254.6,144205.6,0.847
+Sesame,India,Gujarat,Gujarat Composite,2023,Kharif,172852.5,132059.3,0.764
+Sesame,India,Gujarat,Gujarat Composite,2024,Kharif,178855.7,142011.4,0.794
+Sesame,India,Rajasthan,Rajasthan Composite,2012,Kharif,250815.0,120892.8,0.482
+Sesame,India,Rajasthan,Rajasthan Composite,2013,Kharif,230577.4,95689.6,0.415
+Sesame,India,Rajasthan,Rajasthan Composite,2014,Kharif,242968.5,108849.9,0.448
+Sesame,India,Rajasthan,Rajasthan Composite,2015,Kharif,243368.4,89072.8,0.366
+Sesame,India,Rajasthan,Rajasthan Composite,2016,Kharif,243414.1,107832.4,0.443
+Sesame,India,Rajasthan,Rajasthan Composite,2017,Kharif,240750.2,101596.6,0.422
+Sesame,India,Rajasthan,Rajasthan Composite,2018,Kharif,241983.1,107440.5,0.444
+Sesame,India,Rajasthan,Rajasthan Composite,2019,Kharif,249421.7,114484.6,0.459
+Sesame,India,Rajasthan,Rajasthan Composite,2020,Kharif,264038.3,126474.3,0.479
+Sesame,India,Rajasthan,Rajasthan Composite,2021,Kharif,261278.5,96411.8,0.369
+Sesame,India,Rajasthan,Rajasthan Composite,2022,Kharif,232095.5,127652.5,0.55
+Sesame,India,Rajasthan,Rajasthan Composite,2023,Kharif,249634.2,125066.7,0.501
+Sesame,India,Rajasthan,Rajasthan Composite,2024,Kharif,246933.0,104452.7,0.423
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2012,Kharif,331728.2,178801.5,0.539
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2013,Kharif,328557.3,205348.3,0.625
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2014,Kharif,301579.8,161345.2,0.535
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2015,Kharif,324438.2,161894.7,0.499
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2016,Kharif,330001.2,190080.7,0.576
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2017,Kharif,319302.2,198925.3,0.623
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2018,Kharif,332248.9,222274.5,0.669
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2019,Kharif,343905.7,235919.3,0.686
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2020,Kharif,339957.6,227771.6,0.67
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2021,Kharif,331271.6,230565.0,0.696
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2022,Kharif,322386.2,245013.5,0.76
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2023,Kharif,338397.2,268349.0,0.793
+Sesame,India,Madhya Pradesh,Madhya Pradesh Composite,2024,Kharif,356487.7,244550.6,0.686
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2012,Kharif,368028.0,122185.3,0.332
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2013,Kharif,400428.8,125334.2,0.313
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2014,Kharif,419324.8,111121.1,0.265
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2015,Kharif,419389.7,103589.3,0.247
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2016,Kharif,392391.3,142045.7,0.362
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2017,Kharif,401101.5,138380.0,0.345
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2018,Kharif,413061.5,148702.1,0.36
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2019,Kharif,399169.7,156873.7,0.393
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2020,Kharif,396911.6,152017.1,0.383
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2021,Kharif,372096.4,139164.1,0.374
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2022,Kharif,411344.9,153020.3,0.372
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2023,Kharif,397854.9,163916.2,0.412
+Sesame,India,Uttar Pradesh,Uttar Pradesh Composite,2024,Kharif,407122.3,151042.4,0.371
+Safflower,India,Maharashtra,Maharashtra Composite,2012,Rabi,43599.1,35925.7,0.824
+Safflower,India,Maharashtra,Maharashtra Composite,2013,Rabi,43418.9,37600.8,0.866
+Safflower,India,Maharashtra,Maharashtra Composite,2014,Rabi,42295.3,31594.6,0.747
+Safflower,India,Maharashtra,Maharashtra Composite,2015,Rabi,46390.7,36323.9,0.783
+Safflower,India,Maharashtra,Maharashtra Composite,2016,Rabi,47488.8,42217.5,0.889
+Safflower,India,Maharashtra,Maharashtra Composite,2017,Rabi,47725.9,45960.0,0.963
+Safflower,India,Maharashtra,Maharashtra Composite,2018,Rabi,43776.8,35152.8,0.803
+Safflower,India,Maharashtra,Maharashtra Composite,2019,Rabi,46307.0,43343.4,0.936
+Safflower,India,Maharashtra,Maharashtra Composite,2020,Rabi,45133.7,44998.3,0.997
+Safflower,India,Maharashtra,Maharashtra Composite,2021,Rabi,45260.3,41639.5,0.92
+Safflower,India,Maharashtra,Maharashtra Composite,2022,Rabi,44268.0,43471.2,0.982
+Safflower,India,Maharashtra,Maharashtra Composite,2023,Rabi,44547.0,43388.8,0.974
+Safflower,India,Maharashtra,Maharashtra Composite,2024,Rabi,49056.6,43415.1,0.885
+Safflower,India,Karnataka,Karnataka Composite,2012,Rabi,30948.3,22189.9,0.717
+Safflower,India,Karnataka,Karnataka Composite,2013,Rabi,28263.0,22214.7,0.786
+Safflower,India,Karnataka,Karnataka Composite,2014,Rabi,28896.3,17482.3,0.605
+Safflower,India,Karnataka,Karnataka Composite,2015,Rabi,28304.7,17577.2,0.621
+Safflower,India,Karnataka,Karnataka Composite,2016,Rabi,28116.4,24995.5,0.889
+Safflower,India,Karnataka,Karnataka Composite,2017,Rabi,27492.4,22763.7,0.828
+Safflower,India,Karnataka,Karnataka Composite,2018,Rabi,30319.3,23558.1,0.777
+Safflower,India,Karnataka,Karnataka Composite,2019,Rabi,30421.9,24733.0,0.813
+Safflower,India,Karnataka,Karnataka Composite,2020,Rabi,27818.0,24396.4,0.877
+Safflower,India,Karnataka,Karnataka Composite,2021,Rabi,29593.3,24148.1,0.816
+Safflower,India,Karnataka,Karnataka Composite,2022,Rabi,26801.3,24174.8,0.902
+Safflower,India,Karnataka,Karnataka Composite,2023,Rabi,28338.8,23917.9,0.844
+Safflower,India,Karnataka,Karnataka Composite,2024,Rabi,29367.2,23288.2,0.793
+Safflower,India,Gujarat,Gujarat Composite,2012,Rabi,7572.7,7254.6,0.958
+Safflower,India,Gujarat,Gujarat Composite,2013,Rabi,8235.4,8046.0,0.977
+Safflower,India,Gujarat,Gujarat Composite,2014,Rabi,8425.8,7102.9,0.843
+Safflower,India,Gujarat,Gujarat Composite,2015,Rabi,8266.9,7150.9,0.865
+Safflower,India,Gujarat,Gujarat Composite,2016,Rabi,7628.5,7514.1,0.985
+Safflower,India,Gujarat,Gujarat Composite,2017,Rabi,8266.5,8407.0,1.017
+Safflower,India,Gujarat,Gujarat Composite,2018,Rabi,7831.4,7980.2,1.019
+Safflower,India,Gujarat,Gujarat Composite,2019,Rabi,8617.0,8987.5,1.043
+Safflower,India,Gujarat,Gujarat Composite,2020,Rabi,8538.1,9391.9,1.1
+Safflower,India,Gujarat,Gujarat Composite,2021,Rabi,8369.5,8679.2,1.037
+Safflower,India,Gujarat,Gujarat Composite,2022,Rabi,8234.9,9816.0,1.192
+Safflower,India,Gujarat,Gujarat Composite,2023,Rabi,8292.1,9643.7,1.163
+Safflower,India,Gujarat,Gujarat Composite,2024,Rabi,8381.1,8749.9,1.044
+Castor,India,Gujarat,Gujarat Composite,2012,Kharif,666978.0,1450677.1,2.175
+Castor,India,Gujarat,Gujarat Composite,2013,Kharif,663146.7,1550437.0,2.338
+Castor,India,Gujarat,Gujarat Composite,2014,Kharif,682999.3,1284038.7,1.88
+Castor,India,Gujarat,Gujarat Composite,2015,Kharif,707786.3,1493429.1,2.11
+Castor,India,Gujarat,Gujarat Composite,2016,Kharif,669512.8,1643653.9,2.455
+Castor,India,Gujarat,Gujarat Composite,2017,Kharif,741598.0,1791700.8,2.416
+Castor,India,Gujarat,Gujarat Composite,2018,Kharif,753861.1,1841682.7,2.443
+Castor,India,Gujarat,Gujarat Composite,2019,Kharif,770694.3,1999951.7,2.595
+Castor,India,Gujarat,Gujarat Composite,2020,Kharif,729970.8,2158523.7,2.957
+Castor,India,Gujarat,Gujarat Composite,2021,Kharif,786852.1,1987588.4,2.526
+Castor,India,Gujarat,Gujarat Composite,2022,Kharif,740578.2,2248395.4,3.036
+Castor,India,Gujarat,Gujarat Composite,2023,Kharif,754615.5,2158200.3,2.86
+Castor,India,Gujarat,Gujarat Composite,2024,Kharif,744772.7,1911831.5,2.567
+Castor,India,Rajasthan,Rajasthan Composite,2012,Kharif,155086.1,269694.7,1.739
+Castor,India,Rajasthan,Rajasthan Composite,2013,Kharif,163499.0,309340.1,1.892
+Castor,India,Rajasthan,Rajasthan Composite,2014,Kharif,157610.5,286693.5,1.819
+Castor,India,Rajasthan,Rajasthan Composite,2015,Kharif,164630.5,296664.2,1.802
+Castor,India,Rajasthan,Rajasthan Composite,2016,Kharif,172318.8,349807.2,2.03
+Castor,India,Rajasthan,Rajasthan Composite,2017,Kharif,172447.4,337479.6,1.957
+Castor,India,Rajasthan,Rajasthan Composite,2018,Kharif,175151.7,375875.5,2.146
+Castor,India,Rajasthan,Rajasthan Composite,2019,Kharif,189713.9,446586.5,2.354
+Castor,India,Rajasthan,Rajasthan Composite,2020,Kharif,172601.6,396465.9,2.297
+Castor,India,Rajasthan,Rajasthan Composite,2021,Kharif,174444.9,383255.4,2.197
+Castor,India,Rajasthan,Rajasthan Composite,2022,Kharif,187609.7,458705.7,2.445
+Castor,India,Rajasthan,Rajasthan Composite,2023,Kharif,178347.2,485104.4,2.72
+Castor,India,Rajasthan,Rajasthan Composite,2024,Kharif,187017.1,432570.6,2.313
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2012,Kharif,43063.3,33890.8,0.787
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2013,Kharif,39558.5,33070.9,0.836
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2014,Kharif,45227.1,35639.0,0.788
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2015,Kharif,41663.7,27706.4,0.665
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2016,Kharif,42981.9,36663.6,0.853
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2017,Kharif,45902.1,40347.9,0.879
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2018,Kharif,41288.9,34434.9,0.834
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2019,Kharif,41507.0,34575.3,0.833
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2020,Kharif,45854.9,42003.1,0.916
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2021,Kharif,43321.0,35783.1,0.826
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2022,Kharif,45046.5,42794.2,0.95
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2023,Kharif,42263.1,46658.5,1.104
+Castor,India,Andhra Pradesh,Andhra Pradesh Composite,2024,Kharif,45014.2,37811.9,0.84
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2012,Kharif,80540.1,35276.6,0.438
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2013,Kharif,74372.1,32798.1,0.441
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2014,Kharif,79226.1,30026.7,0.379
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2015,Kharif,77871.8,30370.0,0.39
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2016,Kharif,80307.9,37664.4,0.469
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2017,Kharif,79196.1,38172.5,0.482
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2018,Kharif,78140.1,34850.5,0.446
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2019,Kharif,75699.2,39439.3,0.521
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2020,Kharif,77420.0,39019.7,0.504
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2021,Kharif,82885.4,38624.6,0.466
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2022,Kharif,79639.3,41571.7,0.522
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2023,Kharif,82188.8,39861.6,0.485
+Niger seed,India,Madhya Pradesh,Madhya Pradesh Composite,2024,Kharif,86889.8,43271.1,0.498
+Niger seed,India,Odisha,Odisha Composite,2012,Kharif,55482.1,26187.6,0.472
+Niger seed,India,Odisha,Odisha Composite,2013,Kharif,58745.4,28902.7,0.492
+Niger seed,India,Odisha,Odisha Composite,2014,Kharif,56163.8,23027.2,0.41
+Niger seed,India,Odisha,Odisha Composite,2015,Kharif,56235.5,24406.2,0.434
+Niger seed,India,Odisha,Odisha Composite,2016,Kharif,56527.0,27528.6,0.487
+Niger seed,India,Odisha,Odisha Composite,2017,Kharif,54116.7,28844.2,0.533
+Niger seed,India,Odisha,Odisha Composite,2018,Kharif,55109.7,28216.2,0.512
+Niger seed,India,Odisha,Odisha Composite,2019,Kharif,53574.0,31287.2,0.584
+Niger seed,India,Odisha,Odisha Composite,2020,Kharif,58029.9,31452.2,0.542
+Niger seed,India,Odisha,Odisha Composite,2021,Kharif,57330.3,32391.6,0.565
+Niger seed,India,Odisha,Odisha Composite,2022,Kharif,61888.5,35028.9,0.566
+Niger seed,India,Odisha,Odisha Composite,2023,Kharif,53187.6,29093.6,0.547
+Niger seed,India,Odisha,Odisha Composite,2024,Kharif,57195.5,31400.3,0.549
+Niger seed,India,Maharashtra,Maharashtra Composite,2012,Kharif,25708.4,9177.9,0.357
+Niger seed,India,Maharashtra,Maharashtra Composite,2013,Kharif,24498.4,9480.9,0.387
+Niger seed,India,Maharashtra,Maharashtra Composite,2014,Kharif,25997.5,7643.3,0.294
+Niger seed,India,Maharashtra,Maharashtra Composite,2015,Kharif,25088.3,8530.0,0.34
+Niger seed,India,Maharashtra,Maharashtra Composite,2016,Kharif,24179.9,10397.4,0.43
+Niger seed,India,Maharashtra,Maharashtra Composite,2017,Kharif,24620.6,8740.3,0.355
+Niger seed,India,Maharashtra,Maharashtra Composite,2018,Kharif,25618.3,9991.1,0.39
+Niger seed,India,Maharashtra,Maharashtra Composite,2019,Kharif,25789.6,10780.1,0.418
+Niger seed,India,Maharashtra,Maharashtra Composite,2020,Kharif,26943.8,10696.7,0.397
+Niger seed,India,Maharashtra,Maharashtra Composite,2021,Kharif,26679.8,10538.5,0.395
+Niger seed,India,Maharashtra,Maharashtra Composite,2022,Kharif,26081.8,11710.7,0.449
+Niger seed,India,Maharashtra,Maharashtra Composite,2023,Kharif,26135.2,11917.7,0.456
+Niger seed,India,Maharashtra,Maharashtra Composite,2024,Kharif,27079.2,11292.0,0.417

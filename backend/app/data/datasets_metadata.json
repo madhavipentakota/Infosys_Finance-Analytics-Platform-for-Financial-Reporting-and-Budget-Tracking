@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "India Oilseeds Area, Production & Yield Statistics (2012-2024)",
+    "source": "Directorate of Economics and Statistics (DES), Ministry of Agriculture and Farmers Welfare, Govt of India",
+    "source_url": "https://eands.dacnet.nic.in/Advance_Estimate.htm",
+    "description": "Comprehensive state-wise and crop-wise historical time series for 8 major oilseed crops covering cultivated area (hectares), production (tonnes), and yield (tonnes/ha). Data published under Agricultural Statistics at a Glance.",
+    "date_range": "2012 - 2024",
+    "country_region": "India (All Major Oilseed Producing States)",
+    "units": "Area: Hectares (ha), Production: Metric Tonnes (t), Yield: Tonnes/Hectare (t/ha)",
+    "data_fields": "crop_name, country, region, district, year, season, cultivated_area, production, yield_per_ha",
+    "record_count": 481,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "CACP Cost of Cultivation of Principal Oilseed Crops",
+    "source": "Commission for Agricultural Costs and Prices (CACP), Ministry of Agriculture & Farmers Welfare, Govt of India",
+    "source_url": "https://cacp.dacnet.nic.in/ViewReports.aspx?Input=2&DocId=1&PageId=39",
+    "description": "Comprehensive Scheme for Studying the Cost of Cultivation of Principal Crops. Granular operational expense breakdown per hectare covering seed, chemical & organic fertilizers, insecticides, human labor, machine labor, irrigation, land preparation, and harvesting.",
+    "date_range": "2012 - 2024",
+    "country_region": "India (Major Oilseed Producing States)",
+    "units": "Costs: Indian Rupees per Hectare (\u20b9/ha), Cost of Production: Indian Rupees per Quintal (\u20b9/quintal)",
+    "data_fields": "crop_name, region, year, seed_cost_ha, fertilizer_cost_ha, pesticide_cost_ha, labor_cost_ha, irrigation_cost_ha, machinery_cost_ha, land_prep_cost_ha, harvesting_cost_ha, processing_transport_ha, other_operational_cost_ha, total_cost_ha, cost_per_quintal",
+    "record_count": 481,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Agmarknet & CACP Minimum Support Prices & Wholesale Mandi Prices",
+    "source": "Agmarknet (Agricultural Marketing Information Network) & CACP Price Policy Reports",
+    "source_url": "https://agmarknet.gov.in/",
+    "description": "Historical Minimum Support Price (MSP) announced by Government of India and average wholesale mandi realization prices across state agricultural produce marketing committees (APMC).",
+    "date_range": "2012 - 2024",
+    "country_region": "India",
+    "units": "Wholesale Price: Indian Rupees per Quintal (\u20b9/quintal), Unit Price: \u20b9/kg",
+    "data_fields": "crop_name, region, year, msp_price_quintal, wholesale_avg_price_quintal, min_price_quintal, max_price_quintal, price_per_kg, unit",
+    "record_count": 481,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "ICAR-IIOR Oilseed Agronomic & Seed Standards",
+    "source": "ICAR - Indian Institute of Oilseeds Research (IIOR), Hyderabad & Directorate of Oilseeds Development",
+    "source_url": "https://icar-iior.org.in/",
+    "description": "Official agronomic package of practices specifying recommended seed rate per hectare, sowing row spacing, minimum germination thresholds, and cultivar characteristics.",
+    "date_range": "Standard Agronomic Guidelines (Current)",
+    "country_region": "India",
+    "units": "Seed Rate: Kilograms per Hectare (kg/ha), Spacing: Centimeters (cm)",
+    "data_fields": "crop_name, recommended_seed_rate_kg_ha, min_seed_rate_kg_ha, max_seed_rate_kg_ha, sowing_spacing, source, source_url, notes",
+    "record_count": 8,
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "FAO & ICAR Oil Extraction & Industrial Processing Parameters",
+    "source": "Food and Agriculture Organization (FAO) Agricultural Services Bulletin 45 & ICAR-IIOR",
+    "source_url": "https://www.fao.org/3/t0115e/t0115e00.htm",
+    "description": "Scientific oil extraction rates, natural seed oil content percentages, de-oiled cake/meal yields, commercial extraction technologies, and fatty acid profiles for oilseeds.",
+    "date_range": "Standard Industrial Processing Reference",
+    "country_region": "Global / India Standards",
+    "units": "Percentages (% w/w of seed)",
+    "data_fields": "crop_name, typical_oil_content_pct, extraction_rate_pct, cake_meal_yield_pct, extraction_method, primary_fatty_acids, source, source_url, notes",
+    "record_count": 8,
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "IMD Historical Agro-Climatic & Monsoon Rainfall Series",
+    "source": "India Meteorological Department (IMD), Ministry of Earth Sciences, Govt of India",
+    "source_url": "https://mausam.imd.gov.in/",
+    "description": "State-level meteorological observations for Kharif monsoon rainfall, Rabi winter rainfall, annual precipitation, mean surface temperature, and net irrigated area proportions.",
+    "date_range": "2012 - 2024",
+    "country_region": "India",
+    "units": "Rainfall: Millimeters (mm), Temperature: Degrees Celsius (\u00b0C), Irrigation: Percentage (%)",
+    "data_fields": "region, year, kharif_rainfall_mm, rabi_rainfall_mm, annual_rainfall_mm, mean_temp_c, irrigation_coverage_pct",
+    "record_count": 169,
+    "is_active": true
+  }
+]

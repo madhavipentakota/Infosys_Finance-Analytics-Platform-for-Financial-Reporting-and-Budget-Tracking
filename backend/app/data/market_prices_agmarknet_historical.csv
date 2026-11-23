@@ -1,0 +1,482 @@
+crop_name,region,year,msp_price_quintal,wholesale_avg_price_quintal,min_price_quintal,max_price_quintal,price_per_kg,unit
+Soybean,Madhya Pradesh,2012,2240.0,2262.0,2058.4,2533.4,22.62,₹/quintal
+Soybean,Madhya Pradesh,2013,2560.0,2585.1,2352.4,2895.3,25.85,₹/quintal
+Soybean,Madhya Pradesh,2014,2560.0,2661.1,2421.6,2980.4,26.61,₹/quintal
+Soybean,Madhya Pradesh,2015,2600.0,2702.7,2459.5,3027.0,27.03,₹/quintal
+Soybean,Madhya Pradesh,2016,2775.0,2802.2,2550.0,3138.5,28.02,₹/quintal
+Soybean,Madhya Pradesh,2017,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Soybean,Madhya Pradesh,2018,3399.0,3432.3,3123.4,3844.2,34.32,₹/quintal
+Soybean,Madhya Pradesh,2019,3710.0,3746.4,3409.2,4196.0,37.46,₹/quintal
+Soybean,Madhya Pradesh,2020,3880.0,3918.0,3565.4,4388.2,39.18,₹/quintal
+Soybean,Madhya Pradesh,2021,3950.0,4770.8,4341.4,5343.3,47.71,₹/quintal
+Soybean,Madhya Pradesh,2022,4300.0,5023.3,4571.2,5626.1,50.23,₹/quintal
+Soybean,Madhya Pradesh,2023,4600.0,4645.1,4227.0,5202.5,46.45,₹/quintal
+Soybean,Madhya Pradesh,2024,4892.0,4939.9,4495.3,5532.7,49.4,₹/quintal
+Soybean,Maharashtra,2012,2240.0,2307.6,2099.9,2584.5,23.08,₹/quintal
+Soybean,Maharashtra,2013,2560.0,2637.3,2399.9,2953.8,26.37,₹/quintal
+Soybean,Maharashtra,2014,2560.0,2714.9,2470.6,3040.7,27.15,₹/quintal
+Soybean,Maharashtra,2015,2600.0,2757.3,2509.1,3088.2,27.57,₹/quintal
+Soybean,Maharashtra,2016,2775.0,2858.8,2601.5,3201.9,28.59,₹/quintal
+Soybean,Maharashtra,2017,3050.0,3142.1,2859.3,3519.2,31.42,₹/quintal
+Soybean,Maharashtra,2018,3399.0,3501.6,3186.5,3921.8,35.02,₹/quintal
+Soybean,Maharashtra,2019,3710.0,3822.0,3478.0,4280.6,38.22,₹/quintal
+Soybean,Maharashtra,2020,3880.0,3997.2,3637.5,4476.9,39.97,₹/quintal
+Soybean,Maharashtra,2021,3950.0,4867.2,4429.2,5451.3,48.67,₹/quintal
+Soybean,Maharashtra,2022,4300.0,5124.7,4663.5,5739.7,51.25,₹/quintal
+Soybean,Maharashtra,2023,4600.0,4738.9,4312.4,5307.6,47.39,₹/quintal
+Soybean,Maharashtra,2024,4892.0,5039.7,4586.1,5644.5,50.4,₹/quintal
+Soybean,Rajasthan,2012,2240.0,2262.0,2058.4,2533.4,22.62,₹/quintal
+Soybean,Rajasthan,2013,2560.0,2585.1,2352.4,2895.3,25.85,₹/quintal
+Soybean,Rajasthan,2014,2560.0,2661.1,2421.6,2980.4,26.61,₹/quintal
+Soybean,Rajasthan,2015,2600.0,2702.7,2459.5,3027.0,27.03,₹/quintal
+Soybean,Rajasthan,2016,2775.0,2802.2,2550.0,3138.5,28.02,₹/quintal
+Soybean,Rajasthan,2017,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Soybean,Rajasthan,2018,3399.0,3432.3,3123.4,3844.2,34.32,₹/quintal
+Soybean,Rajasthan,2019,3710.0,3746.4,3409.2,4196.0,37.46,₹/quintal
+Soybean,Rajasthan,2020,3880.0,3918.0,3565.4,4388.2,39.18,₹/quintal
+Soybean,Rajasthan,2021,3950.0,4770.8,4341.4,5343.3,47.71,₹/quintal
+Soybean,Rajasthan,2022,4300.0,5023.3,4571.2,5626.1,50.23,₹/quintal
+Soybean,Rajasthan,2023,4600.0,4645.1,4227.0,5202.5,46.45,₹/quintal
+Soybean,Rajasthan,2024,4892.0,4939.9,4495.3,5532.7,49.4,₹/quintal
+Soybean,Karnataka,2012,2240.0,2262.0,2058.4,2533.4,22.62,₹/quintal
+Soybean,Karnataka,2013,2560.0,2585.1,2352.4,2895.3,25.85,₹/quintal
+Soybean,Karnataka,2014,2560.0,2661.1,2421.6,2980.4,26.61,₹/quintal
+Soybean,Karnataka,2015,2600.0,2702.7,2459.5,3027.0,27.03,₹/quintal
+Soybean,Karnataka,2016,2775.0,2802.2,2550.0,3138.5,28.02,₹/quintal
+Soybean,Karnataka,2017,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Soybean,Karnataka,2018,3399.0,3432.3,3123.4,3844.2,34.32,₹/quintal
+Soybean,Karnataka,2019,3710.0,3746.4,3409.2,4196.0,37.46,₹/quintal
+Soybean,Karnataka,2020,3880.0,3918.0,3565.4,4388.2,39.18,₹/quintal
+Soybean,Karnataka,2021,3950.0,4770.8,4341.4,5343.3,47.71,₹/quintal
+Soybean,Karnataka,2022,4300.0,5023.3,4571.2,5626.1,50.23,₹/quintal
+Soybean,Karnataka,2023,4600.0,4645.1,4227.0,5202.5,46.45,₹/quintal
+Soybean,Karnataka,2024,4892.0,4939.9,4495.3,5532.7,49.4,₹/quintal
+Soybean,Gujarat,2012,2240.0,2307.6,2099.9,2584.5,23.08,₹/quintal
+Soybean,Gujarat,2013,2560.0,2637.3,2399.9,2953.8,26.37,₹/quintal
+Soybean,Gujarat,2014,2560.0,2714.9,2470.6,3040.7,27.15,₹/quintal
+Soybean,Gujarat,2015,2600.0,2757.3,2509.1,3088.2,27.57,₹/quintal
+Soybean,Gujarat,2016,2775.0,2858.8,2601.5,3201.9,28.59,₹/quintal
+Soybean,Gujarat,2017,3050.0,3142.1,2859.3,3519.2,31.42,₹/quintal
+Soybean,Gujarat,2018,3399.0,3501.6,3186.5,3921.8,35.02,₹/quintal
+Soybean,Gujarat,2019,3710.0,3822.0,3478.0,4280.6,38.22,₹/quintal
+Soybean,Gujarat,2020,3880.0,3997.2,3637.5,4476.9,39.97,₹/quintal
+Soybean,Gujarat,2021,3950.0,4867.2,4429.2,5451.3,48.67,₹/quintal
+Soybean,Gujarat,2022,4300.0,5124.7,4663.5,5739.7,51.25,₹/quintal
+Soybean,Gujarat,2023,4600.0,4738.9,4312.4,5307.6,47.39,₹/quintal
+Soybean,Gujarat,2024,4892.0,5039.7,4586.1,5644.5,50.4,₹/quintal
+Soybean,Telangana,2012,2240.0,2262.0,2058.4,2533.4,22.62,₹/quintal
+Soybean,Telangana,2013,2560.0,2585.1,2352.4,2895.3,25.85,₹/quintal
+Soybean,Telangana,2014,2560.0,2661.1,2421.6,2980.4,26.61,₹/quintal
+Soybean,Telangana,2015,2600.0,2702.7,2459.5,3027.0,27.03,₹/quintal
+Soybean,Telangana,2016,2775.0,2802.2,2550.0,3138.5,28.02,₹/quintal
+Soybean,Telangana,2017,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Soybean,Telangana,2018,3399.0,3432.3,3123.4,3844.2,34.32,₹/quintal
+Soybean,Telangana,2019,3710.0,3746.4,3409.2,4196.0,37.46,₹/quintal
+Soybean,Telangana,2020,3880.0,3918.0,3565.4,4388.2,39.18,₹/quintal
+Soybean,Telangana,2021,3950.0,4770.8,4341.4,5343.3,47.71,₹/quintal
+Soybean,Telangana,2022,4300.0,5023.3,4571.2,5626.1,50.23,₹/quintal
+Soybean,Telangana,2023,4600.0,4645.1,4227.0,5202.5,46.45,₹/quintal
+Soybean,Telangana,2024,4892.0,4939.9,4495.3,5532.7,49.4,₹/quintal
+Groundnut,Gujarat,2012,3700.0,3811.7,3468.6,4269.1,38.12,₹/quintal
+Groundnut,Gujarat,2013,4000.0,4120.8,3749.9,4615.3,41.21,₹/quintal
+Groundnut,Gujarat,2014,4000.0,4242.0,3860.2,4751.0,42.42,₹/quintal
+Groundnut,Gujarat,2015,4030.0,4273.8,3889.2,4786.7,42.74,₹/quintal
+Groundnut,Gujarat,2016,4220.0,4347.4,3956.1,4869.1,43.47,₹/quintal
+Groundnut,Gujarat,2017,4450.0,4584.4,4171.8,5134.5,45.84,₹/quintal
+Groundnut,Gujarat,2018,4890.0,5037.7,4584.3,5642.2,50.38,₹/quintal
+Groundnut,Gujarat,2019,5090.0,5243.7,4771.8,5872.9,52.44,₹/quintal
+Groundnut,Gujarat,2020,5275.0,5434.3,4945.2,6086.4,54.34,₹/quintal
+Groundnut,Gujarat,2021,5550.0,6838.7,6223.2,7659.3,68.39,₹/quintal
+Groundnut,Gujarat,2022,5850.0,6972.0,6344.5,7808.6,69.72,₹/quintal
+Groundnut,Gujarat,2023,6377.0,6569.6,5978.3,7358.0,65.7,₹/quintal
+Groundnut,Gujarat,2024,6783.0,6987.8,6358.9,7826.3,69.88,₹/quintal
+Groundnut,Rajasthan,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Groundnut,Rajasthan,2013,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Groundnut,Rajasthan,2014,4000.0,4158.0,3783.8,4657.0,41.58,₹/quintal
+Groundnut,Rajasthan,2015,4030.0,4189.2,3812.2,4691.9,41.89,₹/quintal
+Groundnut,Rajasthan,2016,4220.0,4261.4,3877.9,4772.8,42.61,₹/quintal
+Groundnut,Rajasthan,2017,4450.0,4493.6,4089.2,5032.8,44.94,₹/quintal
+Groundnut,Rajasthan,2018,4890.0,4937.9,4493.5,5530.4,49.38,₹/quintal
+Groundnut,Rajasthan,2019,5090.0,5139.9,4677.3,5756.7,51.4,₹/quintal
+Groundnut,Rajasthan,2020,5275.0,5326.7,4847.3,5965.9,53.27,₹/quintal
+Groundnut,Rajasthan,2021,5550.0,6703.3,6100.0,7507.7,67.03,₹/quintal
+Groundnut,Rajasthan,2022,5850.0,6834.0,6218.9,7654.1,68.34,₹/quintal
+Groundnut,Rajasthan,2023,6377.0,6439.5,5859.9,7212.2,64.39,₹/quintal
+Groundnut,Rajasthan,2024,6783.0,6849.5,6233.0,7671.4,68.5,₹/quintal
+Groundnut,Andhra Pradesh,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Groundnut,Andhra Pradesh,2013,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Groundnut,Andhra Pradesh,2014,4000.0,4158.0,3783.8,4657.0,41.58,₹/quintal
+Groundnut,Andhra Pradesh,2015,4030.0,4189.2,3812.2,4691.9,41.89,₹/quintal
+Groundnut,Andhra Pradesh,2016,4220.0,4261.4,3877.9,4772.8,42.61,₹/quintal
+Groundnut,Andhra Pradesh,2017,4450.0,4493.6,4089.2,5032.8,44.94,₹/quintal
+Groundnut,Andhra Pradesh,2018,4890.0,4937.9,4493.5,5530.4,49.38,₹/quintal
+Groundnut,Andhra Pradesh,2019,5090.0,5139.9,4677.3,5756.7,51.4,₹/quintal
+Groundnut,Andhra Pradesh,2020,5275.0,5326.7,4847.3,5965.9,53.27,₹/quintal
+Groundnut,Andhra Pradesh,2021,5550.0,6703.3,6100.0,7507.7,67.03,₹/quintal
+Groundnut,Andhra Pradesh,2022,5850.0,6834.0,6218.9,7654.1,68.34,₹/quintal
+Groundnut,Andhra Pradesh,2023,6377.0,6439.5,5859.9,7212.2,64.39,₹/quintal
+Groundnut,Andhra Pradesh,2024,6783.0,6849.5,6233.0,7671.4,68.5,₹/quintal
+Groundnut,Tamil Nadu,2012,3700.0,3811.7,3468.6,4269.1,38.12,₹/quintal
+Groundnut,Tamil Nadu,2013,4000.0,4120.8,3749.9,4615.3,41.21,₹/quintal
+Groundnut,Tamil Nadu,2014,4000.0,4242.0,3860.2,4751.0,42.42,₹/quintal
+Groundnut,Tamil Nadu,2015,4030.0,4273.8,3889.2,4786.7,42.74,₹/quintal
+Groundnut,Tamil Nadu,2016,4220.0,4347.4,3956.1,4869.1,43.47,₹/quintal
+Groundnut,Tamil Nadu,2017,4450.0,4584.4,4171.8,5134.5,45.84,₹/quintal
+Groundnut,Tamil Nadu,2018,4890.0,5037.7,4584.3,5642.2,50.38,₹/quintal
+Groundnut,Tamil Nadu,2019,5090.0,5243.7,4771.8,5872.9,52.44,₹/quintal
+Groundnut,Tamil Nadu,2020,5275.0,5434.3,4945.2,6086.4,54.34,₹/quintal
+Groundnut,Tamil Nadu,2021,5550.0,6838.7,6223.2,7659.3,68.39,₹/quintal
+Groundnut,Tamil Nadu,2022,5850.0,6972.0,6344.5,7808.6,69.72,₹/quintal
+Groundnut,Tamil Nadu,2023,6377.0,6569.6,5978.3,7358.0,65.7,₹/quintal
+Groundnut,Tamil Nadu,2024,6783.0,6987.8,6358.9,7826.3,69.88,₹/quintal
+Groundnut,Karnataka,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Groundnut,Karnataka,2013,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Groundnut,Karnataka,2014,4000.0,4158.0,3783.8,4657.0,41.58,₹/quintal
+Groundnut,Karnataka,2015,4030.0,4189.2,3812.2,4691.9,41.89,₹/quintal
+Groundnut,Karnataka,2016,4220.0,4261.4,3877.9,4772.8,42.61,₹/quintal
+Groundnut,Karnataka,2017,4450.0,4493.6,4089.2,5032.8,44.94,₹/quintal
+Groundnut,Karnataka,2018,4890.0,4937.9,4493.5,5530.4,49.38,₹/quintal
+Groundnut,Karnataka,2019,5090.0,5139.9,4677.3,5756.7,51.4,₹/quintal
+Groundnut,Karnataka,2020,5275.0,5326.7,4847.3,5965.9,53.27,₹/quintal
+Groundnut,Karnataka,2021,5550.0,6703.3,6100.0,7507.7,67.03,₹/quintal
+Groundnut,Karnataka,2022,5850.0,6834.0,6218.9,7654.1,68.34,₹/quintal
+Groundnut,Karnataka,2023,6377.0,6439.5,5859.9,7212.2,64.39,₹/quintal
+Groundnut,Karnataka,2024,6783.0,6849.5,6233.0,7671.4,68.5,₹/quintal
+Groundnut,Madhya Pradesh,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Groundnut,Madhya Pradesh,2013,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Groundnut,Madhya Pradesh,2014,4000.0,4158.0,3783.8,4657.0,41.58,₹/quintal
+Groundnut,Madhya Pradesh,2015,4030.0,4189.2,3812.2,4691.9,41.89,₹/quintal
+Groundnut,Madhya Pradesh,2016,4220.0,4261.4,3877.9,4772.8,42.61,₹/quintal
+Groundnut,Madhya Pradesh,2017,4450.0,4493.6,4089.2,5032.8,44.94,₹/quintal
+Groundnut,Madhya Pradesh,2018,4890.0,4937.9,4493.5,5530.4,49.38,₹/quintal
+Groundnut,Madhya Pradesh,2019,5090.0,5139.9,4677.3,5756.7,51.4,₹/quintal
+Groundnut,Madhya Pradesh,2020,5275.0,5326.7,4847.3,5965.9,53.27,₹/quintal
+Groundnut,Madhya Pradesh,2021,5550.0,6703.3,6100.0,7507.7,67.03,₹/quintal
+Groundnut,Madhya Pradesh,2022,5850.0,6834.0,6218.9,7654.1,68.34,₹/quintal
+Groundnut,Madhya Pradesh,2023,6377.0,6439.5,5859.9,7212.2,64.39,₹/quintal
+Groundnut,Madhya Pradesh,2024,6783.0,6849.5,6233.0,7671.4,68.5,₹/quintal
+Rapeseed & Mustard,Rajasthan,2012,3000.0,3029.4,2756.8,3392.9,30.29,₹/quintal
+Rapeseed & Mustard,Rajasthan,2013,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Rapeseed & Mustard,Rajasthan,2014,3100.0,3222.4,2932.4,3609.1,32.22,₹/quintal
+Rapeseed & Mustard,Rajasthan,2015,3350.0,3482.3,3168.9,3900.2,34.82,₹/quintal
+Rapeseed & Mustard,Rajasthan,2016,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Rapeseed & Mustard,Rajasthan,2017,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Rapeseed & Mustard,Rajasthan,2018,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Rapeseed & Mustard,Rajasthan,2019,4425.0,4468.4,4066.2,5004.6,44.68,₹/quintal
+Rapeseed & Mustard,Rajasthan,2020,4650.0,4695.6,4273.0,5259.1,46.96,₹/quintal
+Rapeseed & Mustard,Rajasthan,2021,5050.0,6099.4,5550.5,6831.3,60.99,₹/quintal
+Rapeseed & Mustard,Rajasthan,2022,5450.0,6366.7,5793.7,7130.7,63.67,₹/quintal
+Rapeseed & Mustard,Rajasthan,2023,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Rapeseed & Mustard,Rajasthan,2024,5950.0,6008.3,5467.6,6729.3,60.08,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2012,3000.0,3029.4,2756.8,3392.9,30.29,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2013,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2014,3100.0,3222.4,2932.4,3609.1,32.22,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2015,3350.0,3482.3,3168.9,3900.2,34.82,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2016,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2017,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2018,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2019,4425.0,4468.4,4066.2,5004.6,44.68,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2020,4650.0,4695.6,4273.0,5259.1,46.96,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2021,5050.0,6099.4,5550.5,6831.3,60.99,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2022,5450.0,6366.7,5793.7,7130.7,63.67,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2023,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Rapeseed & Mustard,Madhya Pradesh,2024,5950.0,6008.3,5467.6,6729.3,60.08,₹/quintal
+Rapeseed & Mustard,Haryana,2012,3000.0,3029.4,2756.8,3392.9,30.29,₹/quintal
+Rapeseed & Mustard,Haryana,2013,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Rapeseed & Mustard,Haryana,2014,3100.0,3222.4,2932.4,3609.1,32.22,₹/quintal
+Rapeseed & Mustard,Haryana,2015,3350.0,3482.3,3168.9,3900.2,34.82,₹/quintal
+Rapeseed & Mustard,Haryana,2016,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Rapeseed & Mustard,Haryana,2017,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Rapeseed & Mustard,Haryana,2018,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Rapeseed & Mustard,Haryana,2019,4425.0,4468.4,4066.2,5004.6,44.68,₹/quintal
+Rapeseed & Mustard,Haryana,2020,4650.0,4695.6,4273.0,5259.1,46.96,₹/quintal
+Rapeseed & Mustard,Haryana,2021,5050.0,6099.4,5550.5,6831.3,60.99,₹/quintal
+Rapeseed & Mustard,Haryana,2022,5450.0,6366.7,5793.7,7130.7,63.67,₹/quintal
+Rapeseed & Mustard,Haryana,2023,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Rapeseed & Mustard,Haryana,2024,5950.0,6008.3,5467.6,6729.3,60.08,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2012,3000.0,3029.4,2756.8,3392.9,30.29,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2013,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2014,3100.0,3222.4,2932.4,3609.1,32.22,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2015,3350.0,3482.3,3168.9,3900.2,34.82,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2016,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2017,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2018,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2019,4425.0,4468.4,4066.2,5004.6,44.68,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2020,4650.0,4695.6,4273.0,5259.1,46.96,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2021,5050.0,6099.4,5550.5,6831.3,60.99,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2022,5450.0,6366.7,5793.7,7130.7,63.67,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2023,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Rapeseed & Mustard,Uttar Pradesh,2024,5950.0,6008.3,5467.6,6729.3,60.08,₹/quintal
+Rapeseed & Mustard,West Bengal,2012,3000.0,3029.4,2756.8,3392.9,30.29,₹/quintal
+Rapeseed & Mustard,West Bengal,2013,3050.0,3079.9,2802.7,3449.5,30.8,₹/quintal
+Rapeseed & Mustard,West Bengal,2014,3100.0,3222.4,2932.4,3609.1,32.22,₹/quintal
+Rapeseed & Mustard,West Bengal,2015,3350.0,3482.3,3168.9,3900.2,34.82,₹/quintal
+Rapeseed & Mustard,West Bengal,2016,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Rapeseed & Mustard,West Bengal,2017,4000.0,4039.2,3675.7,4523.9,40.39,₹/quintal
+Rapeseed & Mustard,West Bengal,2018,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Rapeseed & Mustard,West Bengal,2019,4425.0,4468.4,4066.2,5004.6,44.68,₹/quintal
+Rapeseed & Mustard,West Bengal,2020,4650.0,4695.6,4273.0,5259.1,46.96,₹/quintal
+Rapeseed & Mustard,West Bengal,2021,5050.0,6099.4,5550.5,6831.3,60.99,₹/quintal
+Rapeseed & Mustard,West Bengal,2022,5450.0,6366.7,5793.7,7130.7,63.67,₹/quintal
+Rapeseed & Mustard,West Bengal,2023,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Rapeseed & Mustard,West Bengal,2024,5950.0,6008.3,5467.6,6729.3,60.08,₹/quintal
+Rapeseed & Mustard,Gujarat,2012,3000.0,3090.6,2812.4,3461.5,30.91,₹/quintal
+Rapeseed & Mustard,Gujarat,2013,3050.0,3142.1,2859.3,3519.2,31.42,₹/quintal
+Rapeseed & Mustard,Gujarat,2014,3100.0,3287.6,2991.7,3682.1,32.88,₹/quintal
+Rapeseed & Mustard,Gujarat,2015,3350.0,3552.7,3233.0,3979.0,35.53,₹/quintal
+Rapeseed & Mustard,Gujarat,2016,3700.0,3811.7,3468.6,4269.1,38.12,₹/quintal
+Rapeseed & Mustard,Gujarat,2017,4000.0,4120.8,3749.9,4615.3,41.21,₹/quintal
+Rapeseed & Mustard,Gujarat,2018,4200.0,4326.8,3937.4,4846.0,43.27,₹/quintal
+Rapeseed & Mustard,Gujarat,2019,4425.0,4558.6,4148.3,5105.6,45.59,₹/quintal
+Rapeseed & Mustard,Gujarat,2020,4650.0,4790.4,4359.3,5365.2,47.9,₹/quintal
+Rapeseed & Mustard,Gujarat,2021,5050.0,6222.6,5662.6,6969.3,62.23,₹/quintal
+Rapeseed & Mustard,Gujarat,2022,5450.0,6495.3,5910.7,7274.7,64.95,₹/quintal
+Rapeseed & Mustard,Gujarat,2023,5650.0,5820.6,5296.7,6519.1,58.21,₹/quintal
+Rapeseed & Mustard,Gujarat,2024,5950.0,6129.7,5578.0,6865.3,61.3,₹/quintal
+Sunflower,Karnataka,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Karnataka,2013,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Karnataka,2014,3750.0,3898.1,3547.3,4365.9,38.98,₹/quintal
+Sunflower,Karnataka,2015,3800.0,3950.1,3594.6,4424.1,39.5,₹/quintal
+Sunflower,Karnataka,2016,3950.0,3988.7,3629.7,4467.3,39.89,₹/quintal
+Sunflower,Karnataka,2017,4100.0,4140.2,3767.6,4637.0,41.4,₹/quintal
+Sunflower,Karnataka,2018,5388.0,5440.8,4951.1,6093.7,54.41,₹/quintal
+Sunflower,Karnataka,2019,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Sunflower,Karnataka,2020,5885.0,5942.7,5407.9,6655.8,59.43,₹/quintal
+Sunflower,Karnataka,2021,6015.0,7264.9,6611.1,8136.7,72.65,₹/quintal
+Sunflower,Karnataka,2022,6400.0,7476.5,6803.6,8373.7,74.77,₹/quintal
+Sunflower,Karnataka,2023,6760.0,6826.2,6211.8,7645.3,68.26,₹/quintal
+Sunflower,Karnataka,2024,7280.0,7351.3,6689.7,8233.5,73.51,₹/quintal
+Sunflower,Odisha,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Odisha,2013,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Odisha,2014,3750.0,3898.1,3547.3,4365.9,38.98,₹/quintal
+Sunflower,Odisha,2015,3800.0,3950.1,3594.6,4424.1,39.5,₹/quintal
+Sunflower,Odisha,2016,3950.0,3988.7,3629.7,4467.3,39.89,₹/quintal
+Sunflower,Odisha,2017,4100.0,4140.2,3767.6,4637.0,41.4,₹/quintal
+Sunflower,Odisha,2018,5388.0,5440.8,4951.1,6093.7,54.41,₹/quintal
+Sunflower,Odisha,2019,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Sunflower,Odisha,2020,5885.0,5942.7,5407.9,6655.8,59.43,₹/quintal
+Sunflower,Odisha,2021,6015.0,7264.9,6611.1,8136.7,72.65,₹/quintal
+Sunflower,Odisha,2022,6400.0,7476.5,6803.6,8373.7,74.77,₹/quintal
+Sunflower,Odisha,2023,6760.0,6826.2,6211.8,7645.3,68.26,₹/quintal
+Sunflower,Odisha,2024,7280.0,7351.3,6689.7,8233.5,73.51,₹/quintal
+Sunflower,Andhra Pradesh,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Andhra Pradesh,2013,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Andhra Pradesh,2014,3750.0,3898.1,3547.3,4365.9,38.98,₹/quintal
+Sunflower,Andhra Pradesh,2015,3800.0,3950.1,3594.6,4424.1,39.5,₹/quintal
+Sunflower,Andhra Pradesh,2016,3950.0,3988.7,3629.7,4467.3,39.89,₹/quintal
+Sunflower,Andhra Pradesh,2017,4100.0,4140.2,3767.6,4637.0,41.4,₹/quintal
+Sunflower,Andhra Pradesh,2018,5388.0,5440.8,4951.1,6093.7,54.41,₹/quintal
+Sunflower,Andhra Pradesh,2019,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Sunflower,Andhra Pradesh,2020,5885.0,5942.7,5407.9,6655.8,59.43,₹/quintal
+Sunflower,Andhra Pradesh,2021,6015.0,7264.9,6611.1,8136.7,72.65,₹/quintal
+Sunflower,Andhra Pradesh,2022,6400.0,7476.5,6803.6,8373.7,74.77,₹/quintal
+Sunflower,Andhra Pradesh,2023,6760.0,6826.2,6211.8,7645.3,68.26,₹/quintal
+Sunflower,Andhra Pradesh,2024,7280.0,7351.3,6689.7,8233.5,73.51,₹/quintal
+Sunflower,Maharashtra,2012,3700.0,3811.7,3468.6,4269.1,38.12,₹/quintal
+Sunflower,Maharashtra,2013,3700.0,3811.7,3468.6,4269.1,38.12,₹/quintal
+Sunflower,Maharashtra,2014,3750.0,3976.9,3619.0,4454.1,39.77,₹/quintal
+Sunflower,Maharashtra,2015,3800.0,4029.9,3667.2,4513.5,40.3,₹/quintal
+Sunflower,Maharashtra,2016,3950.0,4069.3,3703.1,4557.6,40.69,₹/quintal
+Sunflower,Maharashtra,2017,4100.0,4223.8,3843.7,4730.7,42.24,₹/quintal
+Sunflower,Maharashtra,2018,5388.0,5550.7,5051.1,6216.8,55.51,₹/quintal
+Sunflower,Maharashtra,2019,5650.0,5820.6,5296.7,6519.1,58.21,₹/quintal
+Sunflower,Maharashtra,2020,5885.0,6062.7,5517.1,6790.2,60.63,₹/quintal
+Sunflower,Maharashtra,2021,6015.0,7411.7,6744.6,8301.1,74.12,₹/quintal
+Sunflower,Maharashtra,2022,6400.0,7627.5,6941.0,8542.8,76.28,₹/quintal
+Sunflower,Maharashtra,2023,6760.0,6964.2,6337.4,7799.9,69.64,₹/quintal
+Sunflower,Maharashtra,2024,7280.0,7499.9,6824.9,8399.9,75.0,₹/quintal
+Sunflower,Bihar,2012,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Bihar,2013,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Sunflower,Bihar,2014,3750.0,3898.1,3547.3,4365.9,38.98,₹/quintal
+Sunflower,Bihar,2015,3800.0,3950.1,3594.6,4424.1,39.5,₹/quintal
+Sunflower,Bihar,2016,3950.0,3988.7,3629.7,4467.3,39.89,₹/quintal
+Sunflower,Bihar,2017,4100.0,4140.2,3767.6,4637.0,41.4,₹/quintal
+Sunflower,Bihar,2018,5388.0,5440.8,4951.1,6093.7,54.41,₹/quintal
+Sunflower,Bihar,2019,5650.0,5705.4,5191.9,6390.0,57.05,₹/quintal
+Sunflower,Bihar,2020,5885.0,5942.7,5407.9,6655.8,59.43,₹/quintal
+Sunflower,Bihar,2021,6015.0,7264.9,6611.1,8136.7,72.65,₹/quintal
+Sunflower,Bihar,2022,6400.0,7476.5,6803.6,8373.7,74.77,₹/quintal
+Sunflower,Bihar,2023,6760.0,6826.2,6211.8,7645.3,68.26,₹/quintal
+Sunflower,Bihar,2024,7280.0,7351.3,6689.7,8233.5,73.51,₹/quintal
+Sesame,West Bengal,2012,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Sesame,West Bengal,2013,4500.0,4544.1,4135.1,5089.4,45.44,₹/quintal
+Sesame,West Bengal,2014,4600.0,4781.7,4351.3,5355.5,47.82,₹/quintal
+Sesame,West Bengal,2015,4700.0,4885.6,4445.9,5471.9,48.86,₹/quintal
+Sesame,West Bengal,2016,5000.0,5049.0,4594.6,5654.9,50.49,₹/quintal
+Sesame,West Bengal,2017,5300.0,5351.9,4870.2,5994.1,53.52,₹/quintal
+Sesame,West Bengal,2018,6249.0,6310.2,5742.3,7067.4,63.1,₹/quintal
+Sesame,West Bengal,2019,6485.0,6548.6,5959.2,7334.4,65.49,₹/quintal
+Sesame,West Bengal,2020,6855.0,6922.2,6299.2,7752.9,69.22,₹/quintal
+Sesame,West Bengal,2021,7307.0,8825.4,8031.1,9884.4,88.25,₹/quintal
+Sesame,West Bengal,2022,7830.0,9147.0,8323.8,10244.6,91.47,₹/quintal
+Sesame,West Bengal,2023,8635.0,8719.6,7934.8,9766.0,87.2,₹/quintal
+Sesame,West Bengal,2024,9267.0,9357.8,8515.6,10480.7,93.58,₹/quintal
+Sesame,Gujarat,2012,4200.0,4326.8,3937.4,4846.0,43.27,₹/quintal
+Sesame,Gujarat,2013,4500.0,4635.9,4218.7,5192.2,46.36,₹/quintal
+Sesame,Gujarat,2014,4600.0,4878.3,4439.3,5463.7,48.78,₹/quintal
+Sesame,Gujarat,2015,4700.0,4984.4,4535.8,5582.5,49.84,₹/quintal
+Sesame,Gujarat,2016,5000.0,5151.0,4687.4,5769.1,51.51,₹/quintal
+Sesame,Gujarat,2017,5300.0,5460.1,4968.7,6115.3,54.6,₹/quintal
+Sesame,Gujarat,2018,6249.0,6437.7,5858.3,7210.2,64.38,₹/quintal
+Sesame,Gujarat,2019,6485.0,6680.8,6079.5,7482.5,66.81,₹/quintal
+Sesame,Gujarat,2020,6855.0,7062.0,6426.4,7909.4,70.62,₹/quintal
+Sesame,Gujarat,2021,7307.0,9003.7,8193.4,10084.1,90.04,₹/quintal
+Sesame,Gujarat,2022,7830.0,9331.8,8491.9,10451.6,93.32,₹/quintal
+Sesame,Gujarat,2023,8635.0,8895.8,8095.2,9963.3,88.96,₹/quintal
+Sesame,Gujarat,2024,9267.0,9546.9,8687.7,10692.5,95.47,₹/quintal
+Sesame,Rajasthan,2012,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Sesame,Rajasthan,2013,4500.0,4544.1,4135.1,5089.4,45.44,₹/quintal
+Sesame,Rajasthan,2014,4600.0,4781.7,4351.3,5355.5,47.82,₹/quintal
+Sesame,Rajasthan,2015,4700.0,4885.6,4445.9,5471.9,48.86,₹/quintal
+Sesame,Rajasthan,2016,5000.0,5049.0,4594.6,5654.9,50.49,₹/quintal
+Sesame,Rajasthan,2017,5300.0,5351.9,4870.2,5994.1,53.52,₹/quintal
+Sesame,Rajasthan,2018,6249.0,6310.2,5742.3,7067.4,63.1,₹/quintal
+Sesame,Rajasthan,2019,6485.0,6548.6,5959.2,7334.4,65.49,₹/quintal
+Sesame,Rajasthan,2020,6855.0,6922.2,6299.2,7752.9,69.22,₹/quintal
+Sesame,Rajasthan,2021,7307.0,8825.4,8031.1,9884.4,88.25,₹/quintal
+Sesame,Rajasthan,2022,7830.0,9147.0,8323.8,10244.6,91.47,₹/quintal
+Sesame,Rajasthan,2023,8635.0,8719.6,7934.8,9766.0,87.2,₹/quintal
+Sesame,Rajasthan,2024,9267.0,9357.8,8515.6,10480.7,93.58,₹/quintal
+Sesame,Madhya Pradesh,2012,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Sesame,Madhya Pradesh,2013,4500.0,4544.1,4135.1,5089.4,45.44,₹/quintal
+Sesame,Madhya Pradesh,2014,4600.0,4781.7,4351.3,5355.5,47.82,₹/quintal
+Sesame,Madhya Pradesh,2015,4700.0,4885.6,4445.9,5471.9,48.86,₹/quintal
+Sesame,Madhya Pradesh,2016,5000.0,5049.0,4594.6,5654.9,50.49,₹/quintal
+Sesame,Madhya Pradesh,2017,5300.0,5351.9,4870.2,5994.1,53.52,₹/quintal
+Sesame,Madhya Pradesh,2018,6249.0,6310.2,5742.3,7067.4,63.1,₹/quintal
+Sesame,Madhya Pradesh,2019,6485.0,6548.6,5959.2,7334.4,65.49,₹/quintal
+Sesame,Madhya Pradesh,2020,6855.0,6922.2,6299.2,7752.9,69.22,₹/quintal
+Sesame,Madhya Pradesh,2021,7307.0,8825.4,8031.1,9884.4,88.25,₹/quintal
+Sesame,Madhya Pradesh,2022,7830.0,9147.0,8323.8,10244.6,91.47,₹/quintal
+Sesame,Madhya Pradesh,2023,8635.0,8719.6,7934.8,9766.0,87.2,₹/quintal
+Sesame,Madhya Pradesh,2024,9267.0,9357.8,8515.6,10480.7,93.58,₹/quintal
+Sesame,Uttar Pradesh,2012,4200.0,4241.2,3859.5,4750.1,42.41,₹/quintal
+Sesame,Uttar Pradesh,2013,4500.0,4544.1,4135.1,5089.4,45.44,₹/quintal
+Sesame,Uttar Pradesh,2014,4600.0,4781.7,4351.3,5355.5,47.82,₹/quintal
+Sesame,Uttar Pradesh,2015,4700.0,4885.6,4445.9,5471.9,48.86,₹/quintal
+Sesame,Uttar Pradesh,2016,5000.0,5049.0,4594.6,5654.9,50.49,₹/quintal
+Sesame,Uttar Pradesh,2017,5300.0,5351.9,4870.2,5994.1,53.52,₹/quintal
+Sesame,Uttar Pradesh,2018,6249.0,6310.2,5742.3,7067.4,63.1,₹/quintal
+Sesame,Uttar Pradesh,2019,6485.0,6548.6,5959.2,7334.4,65.49,₹/quintal
+Sesame,Uttar Pradesh,2020,6855.0,6922.2,6299.2,7752.9,69.22,₹/quintal
+Sesame,Uttar Pradesh,2021,7307.0,8825.4,8031.1,9884.4,88.25,₹/quintal
+Sesame,Uttar Pradesh,2022,7830.0,9147.0,8323.8,10244.6,91.47,₹/quintal
+Sesame,Uttar Pradesh,2023,8635.0,8719.6,7934.8,9766.0,87.2,₹/quintal
+Sesame,Uttar Pradesh,2024,9267.0,9357.8,8515.6,10480.7,93.58,₹/quintal
+Safflower,Maharashtra,2012,2800.0,2884.6,2625.0,3230.8,28.85,₹/quintal
+Safflower,Maharashtra,2013,3000.0,3090.6,2812.4,3461.5,30.91,₹/quintal
+Safflower,Maharashtra,2014,3050.0,3234.5,2943.4,3622.6,32.34,₹/quintal
+Safflower,Maharashtra,2015,3300.0,3499.7,3184.7,3919.7,35.0,₹/quintal
+Safflower,Maharashtra,2016,3700.0,3811.7,3468.6,4269.1,38.12,₹/quintal
+Safflower,Maharashtra,2017,4100.0,4223.8,3843.7,4730.7,42.24,₹/quintal
+Safflower,Maharashtra,2018,4945.0,5094.3,4635.8,5705.6,50.94,₹/quintal
+Safflower,Maharashtra,2019,5215.0,5372.5,4889.0,6017.2,53.73,₹/quintal
+Safflower,Maharashtra,2020,5327.0,5487.9,4994.0,6146.4,54.88,₹/quintal
+Safflower,Maharashtra,2021,5441.0,6704.4,6101.0,7508.9,67.04,₹/quintal
+Safflower,Maharashtra,2022,5650.0,6733.7,6127.7,7541.7,67.34,₹/quintal
+Safflower,Maharashtra,2023,5800.0,5975.2,5437.4,6692.2,59.75,₹/quintal
+Safflower,Maharashtra,2024,5940.0,6119.4,5568.7,6853.7,61.19,₹/quintal
+Safflower,Karnataka,2012,2800.0,2827.4,2572.9,3166.7,28.27,₹/quintal
+Safflower,Karnataka,2013,3000.0,3029.4,2756.8,3392.9,30.29,₹/quintal
+Safflower,Karnataka,2014,3050.0,3170.5,2885.2,3551.0,31.7,₹/quintal
+Safflower,Karnataka,2015,3300.0,3430.3,3121.6,3841.9,34.3,₹/quintal
+Safflower,Karnataka,2016,3700.0,3736.3,3400.0,4184.7,37.36,₹/quintal
+Safflower,Karnataka,2017,4100.0,4140.2,3767.6,4637.0,41.4,₹/quintal
+Safflower,Karnataka,2018,4945.0,4993.5,4544.1,5592.7,49.94,₹/quintal
+Safflower,Karnataka,2019,5215.0,5266.1,4792.2,5898.0,52.66,₹/quintal
+Safflower,Karnataka,2020,5327.0,5379.2,4895.1,6024.7,53.79,₹/quintal
+Safflower,Karnataka,2021,5441.0,6571.6,5980.2,7360.2,65.72,₹/quintal
+Safflower,Karnataka,2022,5650.0,6600.3,6006.3,7392.3,66.0,₹/quintal
+Safflower,Karnataka,2023,5800.0,5856.8,5329.7,6559.6,58.57,₹/quintal
+Safflower,Karnataka,2024,5940.0,5998.2,5458.4,6718.0,59.98,₹/quintal
+Safflower,Gujarat,2012,2800.0,2884.6,2625.0,3230.8,28.85,₹/quintal
+Safflower,Gujarat,2013,3000.0,3090.6,2812.4,3461.5,30.91,₹/quintal
+Safflower,Gujarat,2014,3050.0,3234.5,2943.4,3622.6,32.34,₹/quintal
+Safflower,Gujarat,2015,3300.0,3499.7,3184.7,3919.7,35.0,₹/quintal
+Safflower,Gujarat,2016,3700.0,3811.7,3468.6,4269.1,38.12,₹/quintal
+Safflower,Gujarat,2017,4100.0,4223.8,3843.7,4730.7,42.24,₹/quintal
+Safflower,Gujarat,2018,4945.0,5094.3,4635.8,5705.6,50.94,₹/quintal
+Safflower,Gujarat,2019,5215.0,5372.5,4889.0,6017.2,53.73,₹/quintal
+Safflower,Gujarat,2020,5327.0,5487.9,4994.0,6146.4,54.88,₹/quintal
+Safflower,Gujarat,2021,5441.0,6704.4,6101.0,7508.9,67.04,₹/quintal
+Safflower,Gujarat,2022,5650.0,6733.7,6127.7,7541.7,67.34,₹/quintal
+Safflower,Gujarat,2023,5800.0,5975.2,5437.4,6692.2,59.75,₹/quintal
+Safflower,Gujarat,2024,5940.0,6119.4,5568.7,6853.7,61.19,₹/quintal
+Castor,Gujarat,2012,,3760.2,3421.8,4211.4,37.6,₹/quintal
+Castor,Gujarat,2013,,3914.8,3562.5,4384.6,39.15,₹/quintal
+Castor,Gujarat,2014,,4348.1,3956.8,4869.9,43.48,₹/quintal
+Castor,Gujarat,2015,,4189.0,3812.0,4691.7,41.89,₹/quintal
+Castor,Gujarat,2016,,4378.4,3984.3,4903.8,43.78,₹/quintal
+Castor,Gujarat,2017,,4532.9,4124.9,5076.8,45.33,₹/quintal
+Castor,Gujarat,2018,,5048.0,4593.7,5653.8,50.48,₹/quintal
+Castor,Gujarat,2019,,5408.6,4921.8,6057.6,54.09,₹/quintal
+Castor,Gujarat,2020,,4945.0,4499.9,5538.4,49.45,₹/quintal
+Castor,Gujarat,2021,,7331.6,6671.8,8211.4,73.32,₹/quintal
+Castor,Gujarat,2022,,8521.4,7754.5,9544.0,85.21,₹/quintal
+Castor,Gujarat,2023,,6387.2,5812.4,7153.7,63.87,₹/quintal
+Castor,Gujarat,2024,,6644.8,6046.8,7442.2,66.45,₹/quintal
+Castor,Rajasthan,2012,,3685.8,3354.1,4128.1,36.86,₹/quintal
+Castor,Rajasthan,2013,,3837.2,3491.9,4297.7,38.37,₹/quintal
+Castor,Rajasthan,2014,,4261.9,3878.3,4773.3,42.62,₹/quintal
+Castor,Rajasthan,2015,,4106.0,3736.5,4598.7,41.06,₹/quintal
+Castor,Rajasthan,2016,,4291.6,3905.4,4806.6,42.92,₹/quintal
+Castor,Rajasthan,2017,,4443.1,4043.2,4976.3,44.43,₹/quintal
+Castor,Rajasthan,2018,,4948.0,4502.7,5541.8,49.48,₹/quintal
+Castor,Rajasthan,2019,,5301.4,4824.3,5937.6,53.01,₹/quintal
+Castor,Rajasthan,2020,,4847.0,4410.8,5428.6,48.47,₹/quintal
+Castor,Rajasthan,2021,,7186.4,6539.6,8048.8,71.86,₹/quintal
+Castor,Rajasthan,2022,,8352.6,7600.9,9354.9,83.53,₹/quintal
+Castor,Rajasthan,2023,,6260.8,5697.3,7012.1,62.61,₹/quintal
+Castor,Rajasthan,2024,,6513.2,5927.0,7294.8,65.13,₹/quintal
+Castor,Andhra Pradesh,2012,,3685.8,3354.1,4128.1,36.86,₹/quintal
+Castor,Andhra Pradesh,2013,,3837.2,3491.9,4297.7,38.37,₹/quintal
+Castor,Andhra Pradesh,2014,,4261.9,3878.3,4773.3,42.62,₹/quintal
+Castor,Andhra Pradesh,2015,,4106.0,3736.5,4598.7,41.06,₹/quintal
+Castor,Andhra Pradesh,2016,,4291.6,3905.4,4806.6,42.92,₹/quintal
+Castor,Andhra Pradesh,2017,,4443.1,4043.2,4976.3,44.43,₹/quintal
+Castor,Andhra Pradesh,2018,,4948.0,4502.7,5541.8,49.48,₹/quintal
+Castor,Andhra Pradesh,2019,,5301.4,4824.3,5937.6,53.01,₹/quintal
+Castor,Andhra Pradesh,2020,,4847.0,4410.8,5428.6,48.47,₹/quintal
+Castor,Andhra Pradesh,2021,,7186.4,6539.6,8048.8,71.86,₹/quintal
+Castor,Andhra Pradesh,2022,,8352.6,7600.9,9354.9,83.53,₹/quintal
+Castor,Andhra Pradesh,2023,,6260.8,5697.3,7012.1,62.61,₹/quintal
+Castor,Andhra Pradesh,2024,,6513.2,5927.0,7294.8,65.13,₹/quintal
+Niger seed,Madhya Pradesh,2012,3500.0,3534.3,3216.2,3958.4,35.34,₹/quintal
+Niger seed,Madhya Pradesh,2013,3500.0,3534.3,3216.2,3958.4,35.34,₹/quintal
+Niger seed,Madhya Pradesh,2014,3600.0,3742.2,3405.4,4191.3,37.42,₹/quintal
+Niger seed,Madhya Pradesh,2015,3650.0,3794.2,3452.7,4249.5,37.94,₹/quintal
+Niger seed,Madhya Pradesh,2016,3825.0,3862.5,3514.9,4326.0,38.62,₹/quintal
+Niger seed,Madhya Pradesh,2017,4050.0,4089.7,3721.6,4580.5,40.9,₹/quintal
+Niger seed,Madhya Pradesh,2018,5877.0,5934.6,5400.5,6646.8,59.35,₹/quintal
+Niger seed,Madhya Pradesh,2019,5940.0,5998.2,5458.4,6718.0,59.98,₹/quintal
+Niger seed,Madhya Pradesh,2020,6695.0,6760.6,6152.1,7571.9,67.61,₹/quintal
+Niger seed,Madhya Pradesh,2021,6930.0,8370.1,7616.8,9374.5,83.7,₹/quintal
+Niger seed,Madhya Pradesh,2022,7287.0,8512.7,7746.6,9534.2,85.13,₹/quintal
+Niger seed,Madhya Pradesh,2023,7734.0,7809.8,7106.9,8747.0,78.1,₹/quintal
+Niger seed,Madhya Pradesh,2024,8717.0,8802.4,8010.2,9858.7,88.02,₹/quintal
+Niger seed,Odisha,2012,3500.0,3534.3,3216.2,3958.4,35.34,₹/quintal
+Niger seed,Odisha,2013,3500.0,3534.3,3216.2,3958.4,35.34,₹/quintal
+Niger seed,Odisha,2014,3600.0,3742.2,3405.4,4191.3,37.42,₹/quintal
+Niger seed,Odisha,2015,3650.0,3794.2,3452.7,4249.5,37.94,₹/quintal
+Niger seed,Odisha,2016,3825.0,3862.5,3514.9,4326.0,38.62,₹/quintal
+Niger seed,Odisha,2017,4050.0,4089.7,3721.6,4580.5,40.9,₹/quintal
+Niger seed,Odisha,2018,5877.0,5934.6,5400.5,6646.8,59.35,₹/quintal
+Niger seed,Odisha,2019,5940.0,5998.2,5458.4,6718.0,59.98,₹/quintal
+Niger seed,Odisha,2020,6695.0,6760.6,6152.1,7571.9,67.61,₹/quintal
+Niger seed,Odisha,2021,6930.0,8370.1,7616.8,9374.5,83.7,₹/quintal
+Niger seed,Odisha,2022,7287.0,8512.7,7746.6,9534.2,85.13,₹/quintal
+Niger seed,Odisha,2023,7734.0,7809.8,7106.9,8747.0,78.1,₹/quintal
+Niger seed,Odisha,2024,8717.0,8802.4,8010.2,9858.7,88.02,₹/quintal
+Niger seed,Maharashtra,2012,3500.0,3605.7,3281.2,4038.4,36.06,₹/quintal
+Niger seed,Maharashtra,2013,3500.0,3605.7,3281.2,4038.4,36.06,₹/quintal
+Niger seed,Maharashtra,2014,3600.0,3817.8,3474.2,4275.9,38.18,₹/quintal
+Niger seed,Maharashtra,2015,3650.0,3870.8,3522.4,4335.3,38.71,₹/quintal
+Niger seed,Maharashtra,2016,3825.0,3940.5,3585.9,4413.4,39.41,₹/quintal
+Niger seed,Maharashtra,2017,4050.0,4172.3,3796.8,4673.0,41.72,₹/quintal
+Niger seed,Maharashtra,2018,5877.0,6054.5,5509.6,6781.0,60.55,₹/quintal
+Niger seed,Maharashtra,2019,5940.0,6119.4,5568.7,6853.7,61.19,₹/quintal
+Niger seed,Maharashtra,2020,6695.0,6897.2,6276.5,7724.9,68.97,₹/quintal
+Niger seed,Maharashtra,2021,6930.0,8539.1,7770.6,9563.8,85.39,₹/quintal
+Niger seed,Maharashtra,2022,7287.0,8684.6,7903.0,9726.8,86.85,₹/quintal
+Niger seed,Maharashtra,2023,7734.0,7967.6,7250.5,8923.7,79.68,₹/quintal
+Niger seed,Maharashtra,2024,8717.0,8980.3,8172.1,10057.9,89.8,₹/quintal
