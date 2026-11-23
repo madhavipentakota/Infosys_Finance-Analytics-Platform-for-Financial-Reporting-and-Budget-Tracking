@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OilCrop Intelligence
 **Data-Driven Oilseed Production, Cost, Profitability & Prediction Platform**
 
@@ -231,3 +232,6 @@ Expected test result: **15 passed, 0 failures**.
 ## 9. License & Attribution
 
 This project is licensed under the MIT License. Agricultural datasets referenced belong to the respective Government of India ministries and international organizations (DES, CACP, Agmarknet, ICAR, IMD, FAO) and are utilized under fair-use public data dissemination standards.
+=======
+# Infosys_Finance-Analytics-Platform-for-Financial-Reporting-and-Budget-Tracking
+>>>>>>> 3a2b96394547e7de293aee7782d2704b4a78bb32
